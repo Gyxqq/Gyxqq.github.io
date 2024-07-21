@@ -1,7 +1,6 @@
 body{
     background-image:url('../img/back_ground.jpg');
     background-size:cover;
-    background-repeat:no-repeat;
     background-attachment: scroll;
     background-position: center;
 }
